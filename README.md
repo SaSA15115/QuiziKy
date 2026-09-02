@@ -116,4 +116,12 @@ Want to be listed here? **Contribute** and your name will be added!
 
 This project is licensed under the **MIT License**.
 
-© 2025 [Krish Yadav](https://github.com/krishyadav90)
+
+## sdsdjkjwhdjhhhhhhhhhhhhhhhhhh
+
+# QuiziFy
+# This project is a quiz app.
+
+## Notes
+## - Run `npm install`
+##  - Then run `npm start`
